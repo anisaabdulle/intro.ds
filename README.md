@@ -1,3 +1,3 @@
 # intro.ds
-#abdullahi anisa
-#147911
+abdullahi anisa
+147911
